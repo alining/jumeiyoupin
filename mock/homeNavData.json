@@ -1,0 +1,29 @@
+{
+  "navData":[
+  	{
+      "name":"首页",
+      "link":"/Home/index",
+      "id":1
+  	},
+  	{
+			"name":"极速免税店",
+      "link":"/Home/FreeTab",
+      "id":2
+  	},
+  	{
+			"name":"母婴",
+      "link":"/Home/FransnanaTab",
+      "id":3
+  	},
+  	{
+			"name":"轻奢",
+      "link":"/Home/LuxuriousTab",
+      "id":4
+  	},
+    {
+      "name":"名品特卖",
+      "link":"/Home/BrandsTab",
+      "id":5
+    }
+  ]
+}
